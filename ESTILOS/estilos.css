@@ -1,0 +1,176 @@
+body {
+    background-image: url("../MULTIMEDIA/a1e93d0863d3d25b7f30d84aa52aee27.jpg");
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 90px;
+    color: rgba(0, 0, 0, 0.514);
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+h2 {
+    font-size: 50px;
+    color: rgb(90, 59, 39);
+    text-align: center;
+
+}
+.clave{
+    font-size: 50px;
+    color: rgb(255, 219, 195);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.botoncito:hover { 
+    background-color: rgba(226, 132, 255, 0.705);
+}
+
+.botoncito { 
+    text-align: center;
+    margin: auto;
+    font-size: 55px;
+    background-color: rgba(255, 255, 255, 0.733);
+}
+
+a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.555);
+}
+
+.intro {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin: auto;
+}
+
+.preguntas {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    border: 2px rgba(0, 0, 0, 0.281) solid;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px; /* Espacio interno opcional */
+    background-color: rgba(0, 0, 0, 0.281);
+    opacity: 0, 5;
+}
+
+.contenedor {
+    display: flex;
+    align-items: center; /* Alinea verticalmente los elementos dentro del contenedor */
+    justify-content: center; /* Opcional: centra horizontalmente el contenedor completo */
+    gap: 20px; /* Espacio entre los elementos, ajusta según sea necesario */
+    padding: 20px; /* Espacio interno opcional */
+}
+
+.cajitas {
+    display: flex;
+    align-items: center; /* Alinea verticalmente los elementos dentro de cajitas */
+}
+
+img {
+    height: auto; /* Ajusta la altura automáticamente para mantener la proporción */
+   margin-left: 200px;
+    border: 2px solid rgba(0, 0, 0, 0.0);
+    width: 300px;
+}
+.contenido{
+    margin-left: 20px;
+}
+.dragoncito{
+    width: 400px;
+    height: 600px;
+}
+
+.opciones{
+    padding: 10px;
+    font-size: 20px;
+}
+
+textarea{
+    background-color: rgba(255, 255, 255, 0.432);
+    margin-left: 600px;
+    font-size: 20px;
+}
+input{
+    background-color: rgba(255, 255, 255, 0.432);
+    margin-left: 600px;
+    font-size: 20px;
+}
+.botones{
+    margin-left: 600px;
+    font-size: 18px
+}
+.bototon:hover{
+background-color: rgba(170, 111, 224, 0.653);
+}
+.bototon{
+    margin-left: 600px;
+    font-size: 30px;
+    color: black;
+}
+.texto2{
+    font-size: 70px;
+    color: rgba(58, 42, 30, 0.769);
+
+}
+.escenafinal{
+    margin-left: 420px;
+    height: 420px;
+    width: 500px;
+}
+.textarea2{
+    background-color: rgba(255, 255, 255, 0.432);
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+.preguntas2{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px; /* Espacio interno opcional */
+    opacity: 0, 5;
+}
+.textofinal{
+    font-size: 90px;
+    color: rgba(0, 0, 0, 0.514);
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
